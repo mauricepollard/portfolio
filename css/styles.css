@@ -1,0 +1,41 @@
+#image{
+    width: 18rem;
+    float: left;
+}
+/* e61927 red */
+
+/* 294a96 blue */
+
+#nav{
+    background-color: #294a96 !important;
+    color: #ffffff;
+    font-weight: 700;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #e61927;
+    border-color: #ffffff;
+}
+.work{
+    background-color: #294a96;
+    color: #ffffff;
+    font-weight: 700;
+}
+.about{
+    background-color: #e61927;
+    color: #ffffff;
+    font-weight: 700;
+}
+ul.a {
+    list-style-type: circle;
+  }
+  #nav-footer{
+    background-color: #e61927 !important;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+}
+.container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
